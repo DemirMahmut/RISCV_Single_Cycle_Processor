@@ -1,6 +1,8 @@
 # RISCV_Single_Cycle_Processor
-This repository contains the design files of RISC V Single Cycle Processor
-
+This repository contains the design files of RISC-V Single Cycle Processor
 
 # Architecture
 ![image](https://github.com/DemirMahmut/RISCV_Single_Cycle_Processor/assets/93203820/88ba8c22-395b-4430-985a-cbe701bbcbca)
+
+# LICENSE
+This project is licensed under the [MIT License](https://github.com/DemirMahmut/RISCV_Single_Cycle_Processor/blob/main/LICENSE).
